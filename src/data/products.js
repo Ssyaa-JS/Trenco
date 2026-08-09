@@ -42,7 +42,7 @@ Hitam, Navy, Cokelat, Abu Tua, Abu Muda.
 Jadwal Pengiriman:
 Order < 20.00 WIB dikirim di hari yang sama.
 
-💡 Tips Ukuran:
+Tips Ukuran:
 Disarankan naik 1–2 size dari ukuran celana reguler biasa agar tidak kekecilan, atau sesuaikan dengan tabel lingkar pinggang di bawah.`,
     sizeList: [
       { size: "27", pj: "100 cm", lp: "74 cm" },
@@ -80,7 +80,7 @@ Grey / Abu-abu Formal.
 Jadwal Pengiriman:
 Order < 20.00 WIB dikirim di hari yang sama.
 
-💡 Tips Ukuran:
+Tips Ukuran:
 Naikkan 1–2 size dari ukuran celana reguler biasa agar tidak kekecilan, atau sesuaikan dengan tabel lingkar pinggang di bawah.`,
     sizeList: [
       { size: "27", pj: "100 cm", lp: "74 cm" },
@@ -105,17 +105,20 @@ Naikkan 1–2 size dari ukuran celana reguler biasa agar tidak kekecilan, atau s
     category: "Kemeja",
     shopeeLink: "https://s.shopee.co.id/3LOGAProq9",
     tiktokLink: "https://vt.tokopedia.com/t/ZS92pAshagrT9-32iHK/",
-    description: `Ringkasan Produk Tren'Co
-Jadwal Pengiriman: Senin - Minggu pukul 17.00 WIB.
+    description: `Brand: TREN'CO (Official Store)
+Produk: Kemeja Tren'Co Premium (Slimfit)
+Bahan: Katun Twill Impor (Kualitas bagus, tidak luntur, jahitan rantai kuat)
+Gaya: Simple, modern, dan elegan (Slimfit)
 
-Fitur & Kualitas:
-• Model slimfit dengan jahitan rantai yang kuat.
-• Bahan katun twill impor berkualitas bagus dan warna tidak luntur.
+Penggunaan:
+Cocok untuk daily outfit, acara formal, maupun santai.
 
-Catatan Penting Pembeli:
-• Stok terbatas, wajib konfirmasi ketersediaan stok sebelum bertransaksi.
-• Pastikan mencantumkan nomor HP aktif dan alamat lengkap saat memesan.`,
-    sizeGuide: "M: LD 104cm, P 70cm | L: LD 108cm, P 73cm | XL: LD 112cm, P 74cm"
+Peringatan:
+Stok terbatas! Wajib konfirmasi ketersediaan stok sebelum transaksi dan cantumkan nomor HP aktif serta alamat lengkap.
+
+Jadwal Pengiriman:
+Senin - Minggu (Pukul 17.00 WIB).`,
+    sizeGuide: "M | L | XL"
   },
   {
     id: 5,
@@ -125,15 +128,20 @@ Catatan Penting Pembeli:
     category: "Kemeja",
     shopeeLink: "https://s.shopee.co.id/3LOGAProq9",
     tiktokLink: "https://vt.tokopedia.com/t/ZS92cWKSVjQGn-wbHXg/",
-    description: `Brand: TREN'CO Original
+    description: `Brand: TREN'CO (Official Store)
+Produk: Kemeja Tren'Co Premium (Slimfit)
+Bahan: Katun Twill Impor (Kualitas bagus, tidak luntur, jahitan rantai kuat)
+Gaya: Simple, modern, dan elegan (Slimfit)
 
-Deskripsi Produk:
-Kemeja lengan panjang putih bersih nan elegan. Cocok untuk kebutuhan formal, wawancara kerja, wisuda, maupun acara penting lainnya.
+Penggunaan:
+Cocok untuk daily outfit, acara formal, maupun santai.
 
-Fitur & Kualitas:
-• Bahan katun halus, adem, tidak menerawang, dan menyerap keringat.
-• Model Slim Fit modern dengan jahitan rapi dan kuat.`,
-    sizeGuide: "M: LD 104cm, P 70cm | L: LD 108cm, P 73cm | XL: LD 112cm, P 74cm"
+Peringatan:
+Stok terbatas! Wajib konfirmasi ketersediaan stok sebelum transaksi dan cantumkan nomor HP aktif serta alamat lengkap.
+
+Jadwal Pengiriman:
+Senin - Minggu (Pukul 17.00 WIB).`,
+    sizeGuide: "M | L | XL"
   },
   {
     id: 6,
@@ -143,20 +151,29 @@ Fitur & Kualitas:
     category: "Celana",
     shopeeLink: "https://s.shopee.co.id/8V6MJzTF8I",
     tiktokLink: "https://www.tiktok.com/@trenco.official",
-    description: `Brand: TREN'CO Official
+    description: `Brand & Produsen: TREN'CO Original (PT Trenco Garmindo Niaga)
 
-Deskripsi Produk:
-Joger Pants unisex serbaguna bergaya kasual dan sporty. Dirancang dengan pinggang elastis dan tali serut yang fleksibel.
+Bahan & Fitur Utama:
+• Bahan Katun Stretch Premium (Saku katun, jahitan rantai benang besar jahit 2 & 3, presisi & rapi)
+• Elastis, fleksibel, adem, dan nyaman dipakai seharian
+• Tampilan serbaguna untuk gaya Kasual, Sporty, maupun Daily Outfit
 
-Bahan & Fitur:
-• Bahan Baby Terry Premium / Cotton Fleece lembut & adem.
-• Dilengkapi saku samping dan karet rib di bagian pergelangan kaki.`,
+Pilihan Warna:
+Hitam, Abu, Mocca, Milo, Cream
+
+Tips Ukuran:
+Ukur lingkar pinggang Anda dalam cm, lalu sesuaikan dengan tabel lingkar pinggang di bawah.`,
     sizeList: [
-      { size: "28", pj: "96 cm", lp: "70-76 cm" },
-      { size: "30", pj: "97 cm", lp: "76-82 cm" },
-      { size: "32", pj: "98 cm", lp: "82-88 cm" },
-      { size: "34", pj: "100 cm", lp: "88-94 cm" },
-      { size: "36", pj: "101 cm", lp: "94-100 cm" }
+      { size: "29", pj: "97 cm", lp: "78 cm" },
+      { size: "30", pj: "97 cm", lp: "80 cm" },
+      { size: "31", pj: "97 cm", lp: "82 cm" },
+      { size: "32", pj: "97 cm", lp: "84 cm" },
+      { size: "33", pj: "97 cm", lp: "86 cm" },
+      { size: "34", pj: "97 cm", lp: "88 cm" },
+      { size: "35", pj: "97 cm", lp: "90 cm" },
+      { size: "36", pj: "97 cm", lp: "92 cm" },
+      { size: "37", pj: "97 cm", lp: "94 cm" },
+      { size: "38", pj: "97 cm", lp: "96 cm" }
     ]
   },
   {
@@ -167,19 +184,34 @@ Bahan & Fitur:
     category: "Celana",
     shopeeLink: "https://s.shopee.co.id/40dwxnhb8w",
     tiktokLink: "https://www.tiktok.com/@trenco.official",
-    description: `Brand & Produsen: TREN'CO Original
+    description: `Brand & Produsen: TREN'CO Original (PT Trenco Garmindo Niaga)
 
-Deskripsi Produk:
-Celana Trousers Modern Fit warna hitam serbaguna. Siluet potongan modern yang fleksibel untuk kerja formal maupun tampil santai saat weekend.
+Bahan & Fitur Utama:
+• Bahan Gabardine Premium (Adem, tidak panas, tidak mudah kusut & tidak berbulu)
+• Resleting YKK & jahitan kantong full paping tebal serta rapi
+• Tampilan serbaguna untuk gaya Formal maupun Kasual
 
-Bahan:
-• Semi-Wool Premium (Jatuh, tebal, tidak mudah kusam, dan nyaman dipakai seharian).`,
+Pilihan Warna:
+Abu Tua, Abu Muda, Hitam, Navy
+
+Jadwal Pengiriman:
+Order < 20.00 WIB dikirim di hari yang sama.
+
+💡 Tips Ukuran:
+Disarankan naik 1–2 size dari ukuran celana reguler biasa agar tidak kekecilan, atau sesuaikan dengan tabel lingkar pinggang di bawah.`,
     sizeList: [
-      { size: "28", pj: "98 cm", lp: "76 cm" },
-      { size: "30", pj: "99 cm", lp: "80 cm" },
-      { size: "32", pj: "100 cm", lp: "84 cm" },
+      { size: "27", pj: "100 cm", lp: "74 cm" },
+      { size: "28", pj: "100 cm", lp: "75 cm" },
+      { size: "29", pj: "100 cm", lp: "76 cm" },
+      { size: "30", pj: "100 cm", lp: "78 cm" },
+      { size: "31", pj: "100 cm", lp: "80 cm" },
+      { size: "32", pj: "100 cm", lp: "82 cm" },
+      { size: "33", pj: "100 cm", lp: "86 cm" },
       { size: "34", pj: "101 cm", lp: "88 cm" },
-      { size: "36", pj: "102 cm", lp: "92 cm" }
+      { size: "35", pj: "101 cm", lp: "91 cm" },
+      { size: "36", pj: "101 cm", lp: "93 cm" },
+      { size: "37", pj: "102 cm", lp: "95 cm" },
+      { size: "38", pj: "102 cm", lp: "98 cm" }
     ]
   },
   {
