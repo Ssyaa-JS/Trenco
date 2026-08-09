@@ -358,7 +358,22 @@ Trousers Basic Hitam Polos. Sangat direkomendasikan untuk setelan kantor atau ou
     description: `Brand: TREN'CO Casual
 
 Deskripsi Produk:
-Kemeja Lengan Pendek Hitam Polos. Ringan, adem, dan cocok untuk iklim tropis harian.`,
+Description
+Brand: TREN'CO Casual (Original Lokal / Toko Resmi Label MALL)
+Produk: Kemeja Polos Pria Lengan Pendek (Hitam / Solid Black)
+Bahan: Katun Rayon Premium (Ringan, adem, lembut, dan menyerap keringat)
+Gaya: Simple, santai, dan modern (Clean & Minimalist look)
+
+Fitur & Keunggulan:
+• Didesain khusus untuk iklim tropis harian sehingga tetap sejuk saat dipakai seharian.
+• Potongan yang pas di badan dengan jahitan rapi standar mall.
+• Warna hitam pekat yang tidak mudah pudar walau sering dicuci.
+
+Penggunaan:
+Cocok untuk hangout, santai harian, kuliah, hingga outfit liburan (mudah dipadukan dengan chinos, jeans, atau celana pendek).
+
+Peringatan:
+Pastikan membeli produk original hanya di toko resmi TREN'CO MALL untuk menghindari produk tiruan.`,
     sizeGuide: "M | L | XL | XXL"
   },
   {
@@ -372,7 +387,19 @@ Kemeja Lengan Pendek Hitam Polos. Ringan, adem, dan cocok untuk iklim tropis har
     description: `Brand: TREN'CO Tactical & Outdoor
 
 Deskripsi Produk:
-Celana Cargo Panjang Abu-abu. Banyak saku fungsional dengan paduan gaya streetwear & outdoor modern.`,
+Description
+Brand & Produsen: TREN'CO Original (PT Trenco Garmindo Niaga)
+
+Bahan & Fitur Utama:
+• Bahan Katun Stretch Premium (Lentur, adem, dan fleksibel mengikuti gerak tubuh)
+• Jahitan Rantai Presisi dengan Benang Katun Tebal (Jahit 2 & 3 lapis, ekstra kuat)
+• Saku dalam berbahan katun lembut yang nyaman dan tidak mudah robek
+
+Pilihan Warna:
+Hitam, Abu, Mocca, Milo, Cream.
+
+💡 Tips Ukuran:
+Ukur lingkar pinggang Anda dalam satuan CM, lalu cocokkan dengan tabel spesifikasi ukuran di bawah untuk memilih size yang paling pas.`,
     sizeList: [
       { size: "28", pj: "98 cm", lp: "76 cm" },
       { size: "30", pj: "99 cm", lp: "80 cm" },
@@ -391,7 +418,19 @@ Celana Cargo Panjang Abu-abu. Banyak saku fungsional dengan paduan gaya streetwe
     description: `Brand: TREN'CO Big Size Series
 
 Deskripsi Produk:
-Celana Chinos khusus ukuran besar / jumbo (Big Size). Potongan ekstra nyaman tanpa rasa sesak saat beraktivitas.`,
+Description
+Brand: TREN'CO (Original Lokal / Toko Resmi Label MALL)
+Produk: Celana Chinos Pria Jumbo (Big Size / Ukuran Besar)
+Bahan: Katun Combed Premium (Lembut, melar/stretch, adem, dan super nyaman)
+Gaya: Casual, modern, dan fleksibel (Nyaman seharian tanpa sesak)
+
+Fitur & Keunggulan:
+• Menggunakan bahan Katun Combed berkualitas tinggi yang halus di kulit.
+• Jahitan ekstra kuat dan rapi standar mall, durable untuk aktivitas harian.
+• Potongan Big Size yang didesain pas dan proporsional saat digunakan.
+
+Peringatan:
+Pastikan membeli produk original hanya di toko resmi TREN'CO MALL untuk menghindari produk tiruan.`,
     sizeList: [
       { size: "38", pj: "102 cm", lp: "98 cm" },
       { size: "40", pj: "103 cm", lp: "104 cm" },
