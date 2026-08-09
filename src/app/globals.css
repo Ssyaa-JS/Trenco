@@ -1,26 +1,30 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --color-brand-dark: #121212;
+  --color-brand-light: #F9F9F9;
+  --color-brand-accent: #0A369D;
+  --color-brand-secondary: #7F8C8D;
+
+  /* Integrasi Font Baru ala Retail Menswear */
+  --font-display: var(--font-inter), sans-serif;
+  --font-sans: var(--font-jakarta), sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* KUNCI ANIMASI MARQUEE TANPA PUTUS */
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); } /* Diubah ke -50% agar transisinya looping sempurna dengan duplikatnya */
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.animate-marquee {
+  animation: marquee 20s linear infinite; /* Kecepatan 20 detik biar pas, gak kelambatan */
 }
 
+/* Pengaturan Dasar Layout */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #ffffff;
 }
