@@ -1,9 +1,7 @@
-// app/store/page.js
-
 'use client';
 import { useState } from 'react';
 import Link from 'next/link';
-import { PRODUCTS } from '@/data/products'; // Menggunakan file data terpusat
+import { PRODUCTS } from '@/data/products';
 
 export default function StorePage() {
   const [activeFilter, setActiveFilter] = useState('all');
