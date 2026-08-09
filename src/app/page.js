@@ -15,7 +15,7 @@ const BANNERS = [
     title: "MODERN SHANGHAI COLLECTION",
     subtitle: "KEMEJA POLOS PREMIUM KERAH SHANGHAI",
     image: "/image/kemeja-shanghai.png",
-    bgColor: "bg-[#EAEFF2]"
+    bgColor: "bg-[#F9F9F9]"
   }
 ];
 
