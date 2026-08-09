@@ -2,7 +2,11 @@
 import { useState } from 'react';
 import Link from 'next/link';
 
-// DATA PRODUK STORE TREN'CO (MANUAL 18 PRODUK)
+// 1. LINK DEFAULT JIKA BELUM ADA LINK SPESIFIK (Tinggal ganti URL toko lo di sini)
+const DEFAULT_SHOPEE = "https://shopee.co.id/trencoofficialstore";
+const DEFAULT_TIKTOK = "https://www.tiktok.com/@trenco.official";
+
+// 2. DATA PRODUK STORE TREN'CO (MANUAL 18 PRODUK)
 const STORE_PRODUCTS = [
   // ================= BARIS 1 =================
   {
@@ -30,7 +34,7 @@ const STORE_PRODUCTS = [
     image: "/image/celana-formal-grey.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/4ftdkm6hGq",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 4,
@@ -57,7 +61,7 @@ const STORE_PRODUCTS = [
     image: "/image/joger-trent.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/8V6MJzTF8I",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
 
   // ================= BARIS 2 =================
@@ -68,7 +72,7 @@ const STORE_PRODUCTS = [
     image: "/image/trousers.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/40dwxnhb8w",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 8,
@@ -77,7 +81,7 @@ const STORE_PRODUCTS = [
     image: "/image/joger-cream.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/9KfTJh8ltf",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 9,
@@ -86,7 +90,7 @@ const STORE_PRODUCTS = [
     image: "/image/hingtwist.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/7VDp8OeBp4",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 10,
@@ -95,7 +99,7 @@ const STORE_PRODUCTS = [
     image: "/image/chinos-hitam.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/2g8ZNYiWSf",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 11,
@@ -104,7 +108,7 @@ const STORE_PRODUCTS = [
     image: "/image/celana-bahan-cream.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/9pbjumjFEM",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 12,
@@ -124,7 +128,7 @@ const STORE_PRODUCTS = [
     image: "/image/celana-bahan-navy.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/6VLHwnOjpn",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 14,
@@ -133,7 +137,7 @@ const STORE_PRODUCTS = [
     image: "/image/celana-chinos.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/4VaDZB2kzF",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 15,
@@ -142,7 +146,7 @@ const STORE_PRODUCTS = [
     image: "/image/trousers-hitam.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/1qZSOMbM8A",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 16,
@@ -151,7 +155,7 @@ const STORE_PRODUCTS = [
     image: "/image/kemeja-hitam.png",
     category: "kemeja",
     shopeeLink: "https://s.shopee.co.id/LkebeYZFA",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 17,
@@ -160,7 +164,7 @@ const STORE_PRODUCTS = [
     image: "/image/cargo-abu.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/1LdBngFX57",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   },
   {
     id: 18,
@@ -169,7 +173,7 @@ const STORE_PRODUCTS = [
     image: "/image/chinos-jumbo.png",
     category: "celana",
     shopeeLink: "https://s.shopee.co.id/50WUAaXYbF",
-    tiktokLink: "https://tiktok.com/@username-toko-lo"
+    tiktokLink: DEFAULT_TIKTOK
   }
 ];
 
