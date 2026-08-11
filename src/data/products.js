@@ -222,14 +222,19 @@ Disarankan naik 1–2 size dari ukuran celana reguler biasa agar tidak kekecilan
     category: "Celana",
     shopeeLink: "https://s.shopee.co.id/9KfTJh8ltf",
     tiktokLink: "https://www.tiktok.com/@trenco.official",
-    description: `Brand: TREN'CO Official
+    description: `Description
+Brand & Produsen: TREN'CO Original (PT Trenco Garmindo Niaga)
 
-Deskripsi Produk:
-Joger Pants santai warna Cream Earthy. Sempurna untuk aktivitas outdoor harian, traveling, maupun santai di rumah.
+Bahan & Fitur Utama:
+• Bahan Katun Stretch Premium (Lentur, adem, dan fleksibel mengikuti gerak tubuh)
+• Jahitan Rantai Presisi dengan Benang Katun Tebal (Jahit 2 & 3 lapis, ekstra kuat)
+• Desain Unisex polos minimalis, cocok dipadukan untuk gaya kasual harian
 
-Bahan & Fitur:
-• Bahan Cotton Fleece tebal namun tetap adem.
-• Karet pinggang kokoh dengan tali adjustable.`,
+Pilihan Warna:
+Cream (Juga tersedia opsi Hitam, Abu, Mocca, Brown).
+
+💡 Tips Ukuran:
+Ukur lingkar pinggang Anda dalam satuan CM, lalu cocokkan langsung dengan tabel spesifikasi ukuran di bawah.`,
     sizeList: [
       { size: "28", pj: "96 cm", lp: "70-76 cm" },
       { size: "30", pj: "97 cm", lp: "76-82 cm" },
@@ -245,14 +250,23 @@ Bahan & Fitur:
     category: "Celana",
     shopeeLink: "https://s.shopee.co.id/7VDp8OeBp4",
     tiktokLink: "https://www.tiktok.com/@trenco.official",
-    description: `Brand & Produsen: TREN'CO Original
+    description: `Description
+Brand & Produsen: TREN'CO Original (PT Trenco Garmindo Niaga)
 
-Deskripsi Produk:
-Celana Bahan Formal High Twist khusus pria eksekutif. Kain halus berkarakter tebal dan jatuh membuat penampilan selalu tampak rapi tanpa gampang kusut.
+Bahan & Fitur Utama:
+• Bahan High Twist / Teflon Premium (Licin, tebal, adem & anti-kusut)
+• Cut pinggang rempel dengan potongan Reguler / Standar yang rapi
+• Resleting YKK Original & jahitan kantong full paping tebal
+• Ideal untuk outfit kerja kantor, acara formal, maupun kegiatan harian
 
-Bahan & Kualitas:
-• High Twist Grade A+
-• Resleting YKK Original & Jahitan Presisi`,
+Pilihan Warna:
+Hitam, Mocca, Abu-Abu, Navy, Kopi (Cokelat Tua).
+
+Jadwal Pengiriman:
+Order < 20.00 WIB dikirim di hari yang sama.
+
+💡 Tips Ukuran:
+Sangat disarankan naik 1–2 size dari ukuran reguler biasa untuk mengantisipasi kekecilan, atau sesuaikan dengan tabel lingkar pinggang di bawah.`,
     sizeList: [
       { size: "27", pj: "100 cm", lp: "74 cm" },
       { size: "28", pj: "100 cm", lp: "75 cm" },
@@ -272,14 +286,22 @@ Bahan & Kualitas:
     category: "Celana",
     shopeeLink: "https://s.shopee.co.id/2g8ZNYiWSf",
     tiktokLink: "https://www.tiktok.com/@trenco.official",
-    description: `Brand: TREN'CO Original
+    description: `Description
+Brand & Produsen: TREN'CO Original (PT Trenco Garmindo Niaga)
 
-Deskripsi Produk:
-Celana Chino Panjang Hitam berbahan Cotton Twill Stretch (Melar). Menawarkan fleksibilitas gerakan tanpa mengorbankan kesan rapi.
+Bahan & Fitur Utama:
+• Bahan Twill Diamond Combed Stretch (Tebal, adem, melar/flexible & warna tidak luntur)
+• Resleting Anti-Karat & potongan Slimfit modern
+• Bahan halus dan tebal, sangat cocok untuk pemakaian harian maupun kerja kantor
 
-Fitur:
-• Bahan murni melar (stretch) adem
-• Kantong dalam dan jahitan ganda yang kuat`,
+Pilihan Warna:
+Hitam, Silver/Abu, Mocca, Cream, Dark Grey.
+
+Jadwal Pengiriman:
+Order < 16.30 WIB dikirim di hari yang sama.
+
+💡 Tips Ukuran:
+Pastikan mengukur lingkar pinggang terlebih dahulu dan pilih variasi ukuran yang sesuai pada daftar spesifikasi di bawah.`,
     sizeList: [
       { size: "28", pj: "98 cm", lp: "76 cm" },
       { size: "30", pj: "99 cm", lp: "80 cm" },
@@ -296,10 +318,22 @@ Fitur:
     category: "Celana",
     shopeeLink: "https://s.shopee.co.id/9pbjumjFEM",
     tiktokLink: "https://www.tiktok.com/@trenco.official",
-    description: `Brand: TREN'CO Original
+    description: `Description
+Brand & Produsen: TREN'CO Original (PT Trenco Garmindo Niaga)
 
-Deskripsi Produk:
-Celana Bahan Formal Slim Fit warna Cream. Pilihan pas untuk gaya Smart Casual modern yang bersih dan segar.`,
+Bahan & Fitur Utama:
+• Bahan Semi Wool / Gabardine Premium (Adem, anti-kusut & tidak mudah berbulu)
+• Resleting YKK Original & jahitan kantong full paping tebal
+• Potongan Slim Fit modern, fleksibel untuk gaya Formal (kerja/kantor) maupun Kasual
+
+Pilihan Warna:
+Cream.
+
+Jadwal Pengiriman:
+Order < 20.00 WIB dikirim di hari yang sama.
+
+💡 Tips Ukuran:
+Bagi pengguna celana reguler, disarankan naik 1–2 size dari ukuran biasa agar tidak kekecilan, atau sesuaikan langsung dengan tabel lingkar pinggang di bawah.`,
     sizeList: [
       { size: "28", pj: "100 cm", lp: "75 cm" },
       { size: "30", pj: "100 cm", lp: "78 cm" },
@@ -315,10 +349,19 @@ Celana Bahan Formal Slim Fit warna Cream. Pilihan pas untuk gaya Smart Casual mo
     category: "Kemeja",
     shopeeLink: "https://s.shopee.co.id/4LGnMjhBem",
     tiktokLink: "https://vt.tokopedia.com/t/ZS92c7YvQGS55-aqNxI/",
-    description: `Brand: TREN'CO Kids Apparel
+    description: `Description
+Brand & Produsen: TREN'CO Official (Original Lokal / Gudang Konveksi Jakarta)
 
-Deskripsi Produk:
-Kemeja Anak Lengan Panjang berbahan katun lembut yang ramah kulit sensitif anak, adem, dan menyerap keringat dengan sangat baik.`,
+Bahan & Fitur Utama:
+• Bahan Katun Linen Premium (Adem, lembut, tidak panas & nyaman untuk anak)
+• Kerah Shanghai / Kemko Modern dengan jahitan rapi standar mall
+• Desain simpel & elegan, cocok untuk seragam santri (TPQ, TPA, MDA, Madin, Pesantren) maupun harian
+
+Pilihan Warna:
+Abu, Softlatte, Maron, Sage, Hitam, Putih, Navy.
+
+💡 Tips Ukuran:
+Rekomendasi usia hanya perkiraan. Disarankan mengukur Lingkar Dada anak terlebih dahulu dan mencocokkannya dengan tabel spesifikasi ukuran di bawah.`,
     sizeGuide: "S (1-2 thn) | M (3-4 thn) | L (5-6 thn) | XL (7-8 thn)"
   },
   {
@@ -329,10 +372,22 @@ Kemeja Anak Lengan Panjang berbahan katun lembut yang ramah kulit sensitif anak,
     category: "Celana",
     shopeeLink: "https://s.shopee.co.id/6VLHwnOjpn",
     tiktokLink: "https://www.tiktok.com/@trenco.official",
-    description: `Brand: TREN'CO Original
+    description: `Description
+Brand & Produsen: TREN'CO Original (PT Trenco Garmindo Niaga)
 
-Deskripsi Produk:
-Celana Formal Slim Fit warna Navy (Biru Dongker). Warna klasik maskulin yang wajib dimiliki setiap pria.`,
+Bahan & Fitur Utama:
+• Bahan Gabardine Premium (Adem, anti-kusut & tidak mudah berbulu)
+• Resleting YKK Original & jahitan kantong full paping tebal
+• Tampilan serbaguna untuk gaya Formal maupun Kasual
+
+Pilihan Warna:
+Hitam, Navy, Cokelat, Abu Tua, Abu Muda.
+
+Jadwal Pengiriman:
+Order < 20.00 WIB dikirim di hari yang sama.
+
+💡 Tips Ukuran:
+Bagi pengguna celana reguler, disarankan naik 1–2 size dari ukuran biasa agar tidak kekecilan, atau sesuaikan dengan tabel lingkar pinggang di bawah.`,
     sizeList: [
       { size: "27", pj: "100 cm", lp: "74 cm" },
       { size: "28", pj: "100 cm", lp: "75 cm" },
@@ -349,10 +404,22 @@ Celana Formal Slim Fit warna Navy (Biru Dongker). Warna klasik maskulin yang waj
     category: "Celana",
     shopeeLink: "https://s.shopee.co.id/4VaDZB2kzF",
     tiktokLink: "https://www.tiktok.com/@trenco.official",
-    description: `Brand: TREN'CO Heavy Duty
+    description: `Description
+Brand & Produsen: TREN'CO Original (PT Trenco Garmindo Niaga)
 
-Deskripsi Produk:
-Chino Edisi Spesial dengan bahan Cotton Twill tebal ekstra melar. Ketahanan warna tinggi dan durabilitas ekstra.`,
+Bahan & Fitur Utama:
+• Bahan Twill Diamond Combed Stretch (Tebal, adem, melar & tidak luntur)
+• Resleting Anti-Karat & potongan Slimfit modern
+• Tampilan clean & nyaman untuk aktivitas harian maupun semi-formal
+
+Pilihan Warna:
+Hitam, Silver/Abu, Mocca, Cream, Dark Grey.
+
+Jadwal Pengiriman:
+Order < 16.30 WIB dikirim di hari yang sama.
+
+💡 Tips Ukuran:
+Pastikan mengukur lingkar pinggang terlebih dahulu dan pilih variasi ukuran yang sesuai pada daftar spesifikasi di bawah.`,
     sizeList: [
       { size: "28", pj: "98 cm", lp: "76 cm" },
       { size: "30", pj: "99 cm", lp: "80 cm" },
@@ -368,10 +435,22 @@ Chino Edisi Spesial dengan bahan Cotton Twill tebal ekstra melar. Ketahanan warn
     category: "Celana",
     shopeeLink: "https://s.shopee.co.id/1qZSOMbM8A",
     tiktokLink: "https://www.tiktok.com/@trenco.official",
-    description: `Brand: TREN'CO Original
+    description: `Description
+Brand & Produsen: TREN'CO Original (PT Trenco Garmindo Niaga)
 
-Deskripsi Produk:
-Trousers Basic Hitam Polos. Sangat direkomendasikan untuk setelan kantor atau outfit perkuliahan harian.`,
+Bahan & Fitur Utama:
+• Bahan Gabardine Premium (Adem, anti-kusut & tidak mudah berbulu)
+• Resleting YKK Original & jahitan kantong full paping tebal
+• Potongan rapi & serbaguna untuk gaya Formal maupun Kasual
+
+Pilihan Warna:
+Hitam, Navy, Cokelat, Abu Tua, Abu Muda.
+
+Jadwal Pengiriman:
+Order < 20.00 WIB dikirim di hari yang sama.
+
+💡 Tips Ukuran:
+Karena menggunakan pola lokal, bagi pengguna celana reguler disarankan naik 1–2 size dari ukuran biasa, atau sesuaikan langsung dengan tabel lingkar pinggang di bawah.`,
     sizeList: [
       { size: "28", pj: "98 cm", lp: "76 cm" },
       { size: "30", pj: "99 cm", lp: "80 cm" },
